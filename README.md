@@ -1,6 +1,6 @@
 # Library Management System - SQL Project
 ## About the Project
-This is a SQL project where I created a Library Management System from scratch.
+This is a SQL project where I created a Library Management System .
 It covers everything from setting up the database, inserting sample data, and running important queries to manage books, members, staff, issued books, and fines.
 
 ## Database Structure
