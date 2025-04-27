@@ -1,6 +1,6 @@
 # Library Management System - SQL Project
 ## About the Project
-This is a SQL project based on a Library Management System .
+This is a SQL project on a Library Management System .
 It covers everything from setting up the database, inserting sample data, and running important queries to manage books, members, staff, issued books, and fines.
 
 ## Database Structure
@@ -64,10 +64,10 @@ How to Run
 
 - Used JOINs, GROUP BY, ORDER BY, Aggregate Functions, and WHERE conditions.
 
-- Performed Date-based filtering using the BETWEEN clause.
+- Performed Date-based filtering .
 
 ## Conclusion
-Through this project, I got good hands-on experience with SQL basics as well as slightly advanced queries.
-It also helped me understand how real-world systems like libraries manage their data using databases.
+In this project, I successfully designed and managed a SQL database .
+This project helped me understand how databases are structured and how to retrieve important insights from raw data.
+It strengthened my skills in writing efficient queries and designing databases .
 
-Thank you!
