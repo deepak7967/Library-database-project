@@ -52,7 +52,7 @@ FINES – Details about fines for late returns.
 
 - Listed books issued in January 2024.
 
-How to Run
+### How to Run
 - Create the database:
 - CREATE DATABASE library;
 - Create all the tables mentioned above.
